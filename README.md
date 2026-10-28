@@ -15,10 +15,15 @@ I'm Shyam, a physics researcher and educator in Nepal working on **atmospheric p
 
 I hold an **M.Sc. in Physics from Tribhuvan University**, with a major in Advanced Solid State Physics. My current research focuses on environmental and atmospheric applications of data analysis.
 
+## Featured research · MODIS AOD reconstruction using DINEOF (2021)
+
 <p align="center">
-  <img src="atmosphere.gif" width="100%" alt="Looping conceptual illustration of aerosol particles moving over a mountain valley" />
+  <img src="MODIS_2021_DINEOF_preview.gif" width="100%" alt="Animated visualization of 52 weekly MODIS aerosol optical depth layers analyzed with DINEOF in 2021" />
 </p>
-<p align="center"><sub>Conceptual illustration of aerosol transport over a mountain valley. Original programmatic animation; not observational data or a physical simulation.</sub></p>
+<p align="center"><sub>MODIS aerosol optical depth research visualization · 52 weekly layers, 2021. For processing methods, reconstruction diagnostics, and limitations, see the analysis notebook.</sub></p>
+
+[View the DINEOF research notebook and methodology →](https://github.com/shyamkuikel/DINEOF_Project)
+
 
 ## What I work on
 
