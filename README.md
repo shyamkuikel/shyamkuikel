@@ -27,15 +27,27 @@ I hold an **M.Sc. in Physics from Tribhuvan University**, with a major in Advanc
 | Aerosol optical properties and seasonal variability | Nonlinear and delayed meteorological associations with PM₂.₅ | ML and deep-learning approaches to PM₂.₅ prediction |
 | Air quality and environmental monitoring | DLNM, CCM, regression, and time-series analysis | Review of CNN–LSTM architectures and spatiotemporal forecasting methods |
 
-## Featured project · PM₂.₅ Prediction
+## Featured research projects
 
-**Investigating how meteorology relates to particulate air pollution.**
+### MODIS AOD reconstruction using DINEOF · 2021
 
-My [PM25-Prediction repository](https://github.com/shyamkuikel/PM25-Prediction) currently includes an **R workflow using distributed lag nonlinear models (DLNM)** to analyze station-specific temperature–PM₂.₅ associations. The workflow considers lagged effects and adjusts for meteorological covariates and temporal patterns.
+Analysis of **52 weekly MODIS aerosol optical depth (AOD) layers** using **Data Interpolating Empirical Orthogonal Functions (DINEOF)** for missing-data reconstruction. The research notebook includes missingness diagnostics, reconstruction checks, validation experiments, and EOF-based spatial analysis.
 
-The broader research direction includes statistical, machine-learning, and deep-learning approaches to air-quality forecasting.
+[Explore the DINEOF analysis notebook →](https://github.com/shyamkuikel/DINEOF_Project)
 
-[Explore the research code →](https://github.com/shyamkuikel/PM25-Prediction)
+*Research animation:* A 52-week MODIS AOD animation is available for this project; the animated preview will be embedded here after its media file is uploaded to the public repository. The animation is a visualization of research data, not a weather forecast.
+
+### Meteorology and PM₂.₅ analysis
+
+My [PM25-Prediction repository](https://github.com/shyamkuikel/PM25-Prediction) includes an **R workflow using distributed lag nonlinear models (DLNM)** to study station-specific temperature–PM₂.₅ associations and delayed effects while accounting for meteorological covariates and temporal patterns.
+
+[Explore the PM₂.₅ research code →](https://github.com/shyamkuikel/PM25-Prediction)
+
+### Nepal Cities Weather Dashboard
+
+A Python-based dashboard displaying model-based current weather estimates for Kathmandu, Pokhara, and Biratnagar using **Open-Meteo, Prometheus, and Grafana**. These are provider estimates, not measurements from my own weather stations.
+
+[Explore the weather dashboard →](https://github.com/shyamkuikel/Nepal-Cities-Weather-Dashboard)
 
 ## Research highlights
 
